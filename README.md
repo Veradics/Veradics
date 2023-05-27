@@ -3,10 +3,10 @@ I'm Svetlana Vakhrusheva, data analyst who loves ML. Recently moved to Israel. N
 
 ### Connect with me:
 <div id="socials" align="left">
-  <a href="linkedin-url">
+  <a href="https://www.linkedin.com/in/svetlana-vakhrusheva-113987260/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="telegram-url">
+  <a href="https://t.me/Veradiss">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a> 
 </div>
