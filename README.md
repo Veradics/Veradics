@@ -1,5 +1,5 @@
 ## Hey there! 👋
-I'm Svetlana Vakhrusheva, a data analyst passionate about machine learning. Recently moved to Israel and currently a student in the Y-data program. I'm dedicated to applying a data-driven approach and expanding my professional network. Open to collaborations and discussions!
+I'm Svetlana Vakhrusheva, a data scientist passionate about machine learning. Recently moved to Israel and currently a student in the Y-data program. I'm dedicated to applying a data-driven approach and expanding my professional network. Open to collaborations and discussions!
 
 ### Connect with me:
 <div id="socials" align="left">
